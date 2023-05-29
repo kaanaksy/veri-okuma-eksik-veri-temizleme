@@ -1,0 +1,7 @@
+ders,isim,bir,iki
+Fiz,Ali,30,46
+Fiz,Caner,12,28
+Fiz,Veli,45,36
+Mat,Ali,50,55
+Mat,Caner,24,16
+Mat,Veli,60,70

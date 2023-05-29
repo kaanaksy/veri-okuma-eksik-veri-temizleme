@@ -1,0 +1,6 @@
+isim,puan,cinsiyet
+Ali,80,E
+Caner,26,n.a
+,94,K
+Ayşe,100,NA
+Fatma,-8,K

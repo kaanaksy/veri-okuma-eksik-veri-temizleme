@@ -1,0 +1,7 @@
+#merhaba
+isim,puan,cinsiyet
+#Bu bir öğrenci puan bilgilendirme tablosudur
+Ali,80,E
+Caner,26,E
+Elif,94,K
+Ayşe,100,K

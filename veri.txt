@@ -1,0 +1,6 @@
+isim	puan	cinsiyet
+Caner	70	E
+Ali	80	E
+Ayşe	90	K
+Fatma	100	K
+Veli	45	E
